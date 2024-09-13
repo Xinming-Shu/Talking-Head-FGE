@@ -1,10 +1,8 @@
 # Enhancing Talking Head Clarity and Smoothness via Optical Flow, Super-Resolution, and Frame Interpolation
 ## Statements
 - This repository is only used for academic research, any commercial use is prohibited.
-- The copyright of digital human presented in our demo is reserved by SMT.
 
 ## Acknowledgements
-- Thanks to Shanghai Media Tech(SMT) for providing the data set and rendering service.
 - We use pre-trained Wav2Lip model from [this repository](https://github.com/Rudrabha/Wav2Lip/tree/master/evaluation).
 - We use pre-trained FlowNet from [this repository](https://github.com/NVIDIA/flownet2-pytorch).
 - We use GFPGAN model from [this repository](https://github.com/TencentARC/GFPGAN).
