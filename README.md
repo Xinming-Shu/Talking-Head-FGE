@@ -2,13 +2,13 @@
 
 ## Demos
 ### GFPGAN: Before and After Comparison
-
+[video1](https://github.com/Xinming-Shu/Talking-Head-FGE/gfpgan_cmp.mp4)
 
 ### EMA-VFI: Comparison of Different Interpolation Methods
-
+[video2](https://github.com/Xinming-Shu/Talking-Head-FGE/wav2lip_compare_vfi.mp4)
 
 ### Before and After Introducing Optical Flow Constraints
-
+[video3](https://github.com/Xinming-Shu/Talking-Head-FGE/Obama_ft_sr.mp4)
 
 
 ## Acknowledgements
