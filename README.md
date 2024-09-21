@@ -1,4 +1,4 @@
-# Enhancing Talking Head Clarity and Smoothness via Optical Flow, Super-Resolution, and Frame Interpolation
+<h1 style="text-align: center;">Enhancing Talking Head Clarity and Smoothness via Optical Flow, Super-Resolution, and Frame Interpolation</h1>
 
 <div align="center">
   <a href='' target="_blank"><img src='https://img.shields.io/badge/Project-Wav2Lip-FGE-green'></a>
