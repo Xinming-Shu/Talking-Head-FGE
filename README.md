@@ -27,7 +27,7 @@ Download: [Frame Interpolation: Comparison of Different Interpolation Methods](h
 <br>
 Download: [Before and After Introducing Optical Flow Constraints](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/Obama_ft_sr.mp4)
 <br>
-
+<br>
 
 <div align="center">
   <h2>Acknowledgements</h2>
