@@ -14,14 +14,17 @@
 
 ### Super-Resolution: Before and After Comparison
 [![Watch the video](https://img.youtube.com/vi/buddCHhOCRI/0.jpg)](https://www.youtube.com/watch?v=buddCHhOCRI)
+<br>
 Download: [Super-Resolution: Before and After Comparison](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/gfpgan_cmp.mp4)
 
 ### Frame Interpolation: Comparison of Different Interpolation Methods
 [![Watch the video](https://img.youtube.com/vi/AwW7XIebQZQ/0.jpg)](https://www.youtube.com/watch?v=AwW7XIebQZQ)
+<br>
 Download: [Frame Interpolation: Comparison of Different Interpolation Methods](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/wav2lip_compare_vfi.mp4)
 
 ### Before and After Introducing Optical Flow Constraints
 [![Watch the video](https://img.youtube.com/vi/6oN1aJwrHQ8/0.jpg)](https://www.youtube.com/watch?v=6oN1aJwrHQ8)
+<br>
 Download: [Before and After Introducing Optical Flow Constraints](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/Obama_ft_sr.mp4)
 <br>
 
