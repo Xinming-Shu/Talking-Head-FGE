@@ -1,1 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Talking-Head-FGE | Project page for “Enhancing Talking Head Clarity and Smoothness via Optical Flow, Super-Resolution, and Frame Interpolation”.</title>
+    <meta name="generator" content="Jekyll v3.10.0" />
+    <meta property="og:title" content="Talking-Head-FGE" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="Project page for “Enhancing Talking Head Clarity and Smoothness via Optical Flow, Super-Resolution, and Frame Interpolation”." />
+    <link rel="stylesheet" href="/Talking-Head-FGE/assets/css/style.css?v=17e687dcda5e21982356b0a97f673b59111cb696">
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        video {
+            width: 80%; /* 视频宽度为页面宽度的 80% */
+            max-width: 1080px; /* 最大宽度 */
+            height: auto; /* 自适应高度 */
+            margin: 10px 0; /* 上下间距 */
+        }
+        h2, h3 {
+            margin-top: 20px; /* 标题间距 */
+        }
+    </style>
+</head>
+<body>
+    <div class="container-lg px-3 my-5 markdown-body">
+        <h1>Enhancing Talking Head Clarity and Smoothness via Optical Flow, Super-Resolution, and Frame Interpolation</h1>
+        
+        <h2>Demos</h2>
+
+        <h3 id="gfpgan-before-and-after-comparison">GFPGAN: Before and After Comparison</h3>
+        <video controls loop src="videos/gfpgan_cmp.mp4" muted="false"></video>
+        <p>Download: <a href="https://github.com/Xinming-Shu/Talking-Head-FGE/gfpgan_cmp.mp4">GFPGAN: Before and After Comparison</a></p>
+
+        <h3 id="ema-vfi-comparison-of-different-interpolation-methods">EMA-VFI: Comparison of Different Interpolation Methods</h3>
+        <video controls loop src="videos/wav2lip_compare_vfi.mp4" muted="false"></video>
+        <p>Download: <a href="https://github.com/Xinming-Shu/Talking-Head-FGE/wav2lip_compare_vfi.mp4">EMA-VFI: Comparison of Different Interpolation Methods</a></p>
+
+        <h3 id="before-and-after-introducing-optical-flow-constraints">Before and After Introducing Optical Flow Constraints</h3>
+        <video controls loop src="videos/Obama_ft_sr.mp4" muted="false"></video>
+        <p>Download: <a href="https://github.com/Xinming-Shu/Talking-Head-FGE/Obama_ft_sr.mp4">Before and After Introducing Optical Flow Constraints</a></p>
+
+        <h2>Acknowledgements</h2>
+        <ul>
+            <li>We use pre-trained Wav2Lip model from <a href="https://github.com/Rudrabha/Wav2Lip/tree/master/evaluation">this repository</a>.</li>
+            <li>We use pre-trained FlowNet from <a href="https://github.com/NVIDIA/flownet2-pytorch">this repository</a>.</li>
+            <li>We use GFPGAN model from <a href="https://github.com/TencentARC/GFPGAN">this repository</a>.</li>
+            <li>We use EMA-VFI from <a href="https://github.com/MCG-NJU/EMA-VFI">this repository</a>.</li>
+        </ul>
+
+        <p>Thanks to the authors of above repositories.</p>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+</body>
+</html>
 
