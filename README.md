@@ -13,20 +13,15 @@
 </div>
 
 ### Super-Resolution: Before and After Comparison
+<center>[![Watch the video](https://img.youtube.com/vi/buddCHhOCRI/0.jpg)](https://www.youtube.com/watch?v=buddCHhOCRI)</center>
 Download: [Super-Resolution: Before and After Comparison](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/gfpgan_cmp.mp4)
 
 ### Frame Interpolation: Comparison of Different Interpolation Methods
-[![Watch the video](https://img.youtube.com/vi/AwW7XIebQZQ/0.jpg)](https://www.youtube.com/watch?v=AwW7XIebQZQ)
-
-<div>
-  <video controls loop src="https://youtu.be/AwW7XIebQZQ" muted="false"></video>
-  <video controls loop src="https://www.youtube.com/watch?v=AwW7XIebQZQ" muted="false"></video>
-</div>
-
+<center>[![Watch the video](https://img.youtube.com/vi/AwW7XIebQZQ/0.jpg)](https://www.youtube.com/watch?v=AwW7XIebQZQ)</center>
 Download: [Frame Interpolation: Comparison of Different Interpolation Methods](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/wav2lip_compare_vfi.mp4)
 
 ### Before and After Introducing Optical Flow Constraints
-<video controls loop src="https://youtu.be/6oN1aJwrHQ8" muted="false"></video>
+<center>[![Watch the video](https://img.youtube.com/vi/6oN1aJwrHQ8/0.jpg)](https://www.youtube.com/watch?v=6oN1aJwrHQ8)</center>
 Download: [Before and After Introducing Optical Flow Constraints](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/Obama_ft_sr.mp4)
 <br>
 
