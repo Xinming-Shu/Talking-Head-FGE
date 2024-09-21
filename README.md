@@ -1,14 +1,23 @@
+<div align="center">
+
 # Enhancing Talking Head Clarity and Smoothness via Optical Flow, Super-Resolution, and Frame Interpolation
+
+<div align="center">
+  <a href='' target="_blank"><img src='https://img.shields.io/badge/Project-Wav2Lip-FGE-green'></a>
+</div>
+<br>
+
 
 ## Demos
 ### GFPGAN: Before and After Comparison
-[video1](https://github.com/Xinming-Shu/Talking-Head-FGE/gfpgan_cmp.mp4)
+<video controls loop src="" muted="false"></video>
+Download: [GFPGAN: Before and After Comparison](https://github.com/Xinming-Shu/Talking-Head-FGE/gfpgan_cmp.mp4)
 
 ### EMA-VFI: Comparison of Different Interpolation Methods
-[video2](https://github.com/Xinming-Shu/Talking-Head-FGE/wav2lip_compare_vfi.mp4)
+Download: [EMA-VFI: Comparison of Different Interpolation Methods](https://github.com/Xinming-Shu/Talking-Head-FGE/wav2lip_compare_vfi.mp4)
 
 ### Before and After Introducing Optical Flow Constraints
-[video3](https://github.com/Xinming-Shu/Talking-Head-FGE/Obama_ft_sr.mp4)
+Download: [Before and After Introducing Optical Flow Constraints](https://github.com/Xinming-Shu/Talking-Head-FGE/Obama_ft_sr.mp4)
 
 
 ## Acknowledgements
