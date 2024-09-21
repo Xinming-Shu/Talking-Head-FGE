@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href='' target="_blank"><img src='https://img.shields.io/badge/Project-TalkingHead_FGE-green'></a>
+  <a href='https://xinming-shu.github.io/Talking-Head-FGE/' target="_blank"><img src='https://img.shields.io/badge/Project-TalkingHead_FGE-green'></a>
 </div>
 <br>
 
