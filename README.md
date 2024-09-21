@@ -13,11 +13,15 @@
 </div>
 
 ### Super-Resolution: Before and After Comparison
+<div>
 <video controls loop src="https://youtu.be/buddCHhOCRI" muted="false"></video>
+</div>
 Download: [Super-Resolution: Before and After Comparison](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/gfpgan_cmp.mp4)
 
 ### Frame Interpolation: Comparison of Different Interpolation Methods
+[![Watch the video](https://img.youtube.com/vi/AwW7XIebQZQ/0.jpg)](https://www.youtube.com/watch?v=AwW7XIebQZQ)
 <video controls loop src="https://youtu.be/AwW7XIebQZQ" muted="false"></video>
+<video controls loop src="https://www.youtube.com/watch?v=AwW7XIebQZQ" muted="false"></video>
 Download: [Frame Interpolation: Comparison of Different Interpolation Methods](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/wav2lip_compare_vfi.mp4)
 
 ### Before and After Introducing Optical Flow Constraints
