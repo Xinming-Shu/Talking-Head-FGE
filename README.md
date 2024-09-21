@@ -13,15 +13,15 @@
 </div>
 
 ### GFPGAN: Before and After Comparison
-<video controls loop src="videos/gfpgan_cmp.mp4" muted="false"></video>
+<video controls loop src="https://raw.githubusercontent.com/Xinming-Shu/Talking-Head-FGE/main/videos/gfpgan_cmp.mp4" muted="false"></video>
 Download: [GFPGAN: Before and After Comparison](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/gfpgan_cmp.mp4)
 
 ### EMA-VFI: Comparison of Different Interpolation Methods
-<video controls loop src="videos/wav2lip_compare_vfi.mp4" muted="false"></video>
+<video controls loop src="https://raw.githubusercontent.com/Xinming-Shu/Talking-Head-FGE/main/videos/wav2lip_compare_vfi.mp4" muted="false"></video>
 Download: [EMA-VFI: Comparison of Different Interpolation Methods](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/wav2lip_compare_vfi.mp4)
 
 ### Before and After Introducing Optical Flow Constraints
-<video controls loop src="videos/Obama_ft_sr.mp4" muted="false"></video>
+<video controls loop src="https://raw.githubusercontent.com/Xinming-Shu/Talking-Head-FGE/main/videos/Obama_ft_sr.mp4" muted="false"></video>
 Download: [Before and After Introducing Optical Flow Constraints](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/Obama_ft_sr.mp4)
 <br>
 
