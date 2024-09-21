@@ -1,5 +1,3 @@
-<div align="center">
-
 # Enhancing Talking Head Clarity and Smoothness via Optical Flow, Super-Resolution, and Frame Interpolation
 
 <div align="center">
