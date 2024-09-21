@@ -13,15 +13,15 @@
 </div>
 
 ### Super-Resolution: Before and After Comparison
-<video controls loop src="https://raw.githubusercontent.com/Xinming-Shu/Talking-Head-FGE/main/videos/gfpgan_cmp.mp4" muted="false"></video>
+<video controls loop src="https://youtu.be/buddCHhOCRI" muted="false"></video>
 Download: [Super-Resolution: Before and After Comparison](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/gfpgan_cmp.mp4)
 
 ### Frame Interpolation: Comparison of Different Interpolation Methods
-<video controls loop src="https://raw.githubusercontent.com/Xinming-Shu/Talking-Head-FGE/main/videos/wav2lip_compare_vfi.mp4" muted="false"></video>
+<video controls loop src="https://youtu.be/AwW7XIebQZQ" muted="false"></video>
 Download: [Frame Interpolation: Comparison of Different Interpolation Methods](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/wav2lip_compare_vfi.mp4)
 
 ### Before and After Introducing Optical Flow Constraints
-<video controls loop src="https://raw.githubusercontent.com/Xinming-Shu/Talking-Head-FGE/main/videos/Obama_ft_sr.mp4" muted="false"></video>
+<video controls loop src="https://youtu.be/6oN1aJwrHQ8" muted="false"></video>
 Download: [Before and After Introducing Optical Flow Constraints](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/Obama_ft_sr.mp4)
 <br>
 
