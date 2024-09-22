@@ -16,6 +16,7 @@
 [![Watch the video](https://img.youtube.com/vi/buddCHhOCRI/0.jpg)](https://www.youtube.com/watch?v=buddCHhOCRI)
 <br>
 Download: [Super-Resolution: Before and After Comparison](https://github.com/Xinming-Shu/Talking-Head-FGE/raw/main/videos/gfpgan_cmp.mp4)
+    <iframe width="100%" src="https://www.youtube.com/embed/buddCHhOCRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Frame Interpolation: Comparison of Different Interpolation Methods
 [![Watch the video](https://img.youtube.com/vi/AwW7XIebQZQ/0.jpg)](https://www.youtube.com/watch?v=AwW7XIebQZQ)
