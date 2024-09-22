@@ -19,6 +19,10 @@ Download: [Super-Resolution: Before and After Comparison](https://github.com/Xin
 
 <iframe width="100%" src="https://www.youtube.com/embed/buddCHhOCRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![](https://i.ytimg.com/vi/buddCHhOCRI/maxresdefault.jpg)](https://youtu.be/buddCHhOCRI "")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/buddCHhOCRI?si=9mXiUrrh5di9sK39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Frame Interpolation: Comparison of Different Interpolation Methods
 [![Watch the video](https://img.youtube.com/vi/AwW7XIebQZQ/0.jpg)](https://www.youtube.com/watch?v=AwW7XIebQZQ)
 <br>
